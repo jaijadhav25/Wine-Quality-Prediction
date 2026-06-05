@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Trained model file (large ~10MB, regenerate by running the notebook)
+wine_quality_model.pkl
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
